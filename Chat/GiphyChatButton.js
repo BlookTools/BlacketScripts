@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Add Giphy button to chat interface
-// @author       You
-// @match        *://*/*
+// @author       franxe
+// @match        blacket.org/^
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
